@@ -1,1 +1,1 @@
-<!DOCTYPE html><html lang="en"><body><head><title>About Me</title></head><strong styele="color:orange;">About Me</strong><br><br><big style="color:grey;">I'm a very creative programmer and i use JavaScript, CSS, HTML and Python.</body></big>
+<!DOCTYPE html><html lang="en"><body><strong styele="color:orange;">About Me</strong><br><br><big style="color:grey;">I'm a very creative programmer and i use JavaScript, CSS, HTML and Python.</big></body>
