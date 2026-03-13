@@ -1,1 +1,1 @@
-<!DOCTYPE html><html lang="en"><body><strong styele="color:orange;">About Me</strong><br><br><big style="color:grey;">I'm a very creative programmer and i use JavaScript, CSS, HTML and Python.</big></body>
+<!DOCTYPE html><html lang="en"><body><strong styele="color:orange;">About Me</strong><br><br><big style="color:grey;">An active coder in the android rooting, search engine and GPS spoofing community. I am also very creative at web browser programs. I also made packetcrasher. <strong>Contact me at @chucny on Discord.</strong></big></body>
