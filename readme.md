@@ -1,1 +1,26 @@
-<!DOCTYPE html><html lang="en"><body><strong styele="color:orange;">About Me</strong><br><br><big style="color:grey;">An active coder in the android rooting, search engine and GPS spoofing community. I am also very creative at web browser programs. I also made packetcrasher. <strong>Contact me at @chucny on Discord.</strong></big></body>
+### @Chucny - About Me
+
+Hello! I'm a software developer who lives in Finland. I like making projects like this during my free time.
+
+***
+
+#### **`CORE CONFIGURATION`**
+* 📱 **Android Rooting** | Active developer in custom system modifications and firmware optimization.
+* 🛰️ **GPS Spoofing** | Experienced in location manipulation, and geospatial tooling.
+* 🔍 **Search Engines** | I like scraping search results 
+* 🌐 **Web Browsers** | Highly creative
+
+***
+
+#### **`PROJECT RELEASES`**
+* **ChucnyServer** A custom 0.29.0 Pokemon GO server
+* **Wizard Planet** An open source geolocation AR game built for the modern web
+* **AutoRoot** a custom rooting tool that roots your phone almost automatically
+* **And much much more!**
+***
+
+#### **`CONTACT ME`**
+* 💬 **Discord** | **`@chucny`**
+* ✉️ **E-Mail**  | **koppispoke@gmail.com**
+
+***
