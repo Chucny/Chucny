@@ -13,7 +13,7 @@ Hello! I'm a software developer who lives in Finland. I like making projects lik
 ***
 
 #### **`PROJECT RELEASES`**
-* <a href="https://github.com"><strong>ChucnyServer</strong></a> A custom 0.29.0 Pokemon GO server
+* <a href="https://github.com/chucny/chucnyserver"><strong>ChucnyServer</strong></a> A custom 0.29.0 Pokemon GO server
 * **Wizard Planet** An open source geolocation AR game built for the modern web
 * **AutoRoot** a custom rooting tool that roots your phone almost automatically
 * **And much much more!**
