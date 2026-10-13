@@ -1,7 +1,8 @@
 ### About Me
 <img src="https://c.tenor.com/3x328Tn_4SwAAAAC/tenor.gif" width="150" alt="turtle">
-I like making projects like this during my free time.
-🇫🇮
+I like making projects like this during my free time.<br>
+🇫🇮🇸🇪
+
 ***
 
 #### **`CORE CONFIGURATION`**
