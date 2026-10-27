@@ -23,6 +23,6 @@ I like making projects like this during my free time.<br>
 
 #### **`CONTACT ME`**
 * 💬 **Discord** | **`@chucny`**
-* ✉️ **E-Mail**  | **koppispoke@gmail.com**
+* ✉️ **E-Mail**  | **chucny@proton.me**
 
 ***
